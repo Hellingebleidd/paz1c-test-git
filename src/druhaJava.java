@@ -4,6 +4,6 @@ public class druhaJava {
 		//pridavam komentar len aby bola zmena
 		System.out.println("Yuyanka");
 		//robim dalsiu zmenu
-		System.out.println("Imposter");
+		System.out.println("Imposters");
 	}
 }
