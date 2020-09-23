@@ -5,5 +5,7 @@ public class druhaJava {
 		System.out.println("Yuyanka");
 		//robim dalsiu zmenu
 		System.out.println("Imposters");
+		
+		System.out.println("babickina strudla");
 	}
 }
